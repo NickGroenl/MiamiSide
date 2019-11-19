@@ -1,5 +1,16 @@
 # MiamiSide Actualizaciones
 
+# (MiamiSide 0.0.5) avances 19/11/2019
+- Se actualizaron todos los textdraws del servidor para mejorar su optimizacion para PC's gama baja
+- de 73 textdraws a 26, se eliminaron funciones del HUD para trabajarlas mas adelante
+- Se empezo a trabajar nuevamente en el mapa(terminando el puerto)
+- Se añadio un logo del servidor
+- Se solucionaron errores que al seleccionar un personaje te daba un skin aleatoreo
+
+Tiempo de compilacion: 0.9947 segundos.
+
+
+
 # (MiamiSide 0.0.4) avances 12/11/2019
 - Se paso todo el sistema de logueo/registro a mysql-r41-4 con la funcion de escape de string agregadas
 - Se modificaron funciones del HUD(NO VISUAL)
