@@ -1,5 +1,17 @@
 # MiamiSide Actualizaciones
 
+# (MiamiSide 0.0.6) avances 27/11/2019
+-  Se añadieron textdraw's para el sistema de negocios(9)
+-  Se estara trabajando en los interiores para el sistema de negocios(cada negocio tendra un max de 50 muebles,VIP 100)
+- se termino el guardado, cargado y alguans funciones de el sistema de negocio
+- se agrego una funcion de nivel para el sistema de negocios
+- Anticheat re hecho y optimizado
+- Update a 0.3DL(para el mapa)
+
+Tiempo de compilacion: 1.1004 segundos.
+
+
+
 # (MiamiSide 0.0.5) avances 19/11/2019
 - Se actualizaron todos los textdraws del servidor para mejorar su optimizacion para PC's gama baja
 - de 73 textdraws a 26, se eliminaron funciones del HUD para trabajarlas mas adelante
