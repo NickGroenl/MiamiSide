@@ -1,5 +1,7 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
-#(MiamiSide 0.0.7) avances 29/11/2019
+
+
+# (MiamiSide 0.0.7) avances 29/11/2019
 - Ahora puedes comprar/vender tu negocio
 - Se ingresa/sale con la letra Y del negocio
 - Se termino el negocio tipo "Tienda de ropa" por nivel(MAX 3), el nivel lo que hace es que generes mas ingresos y te de acceso a vender mas variedad de skins, ya que el nivel 1 te limita a 68 skins, para vender tendras que tener mercancia(esto esta conectado con un trabajo que pronto dare informacion)
