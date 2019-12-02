@@ -1,5 +1,14 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
 
+# (MiamiSide 0.0.8) avances 02/12/2019
+-  Se comenzo a trabajar en el mapa de Miami 0.3DL(pronto imagenes)
+- Negocio tipo Banco terminado(opciones transferir dinero y tarjeta debito los resguardo para mas adelante)
+- Se esta trabajando en un nuevo tipo de negocio(Corredor de bolsa) mas info en un txt que dejare en la github
+- El sistema de mercado de valores esta terminado, falta ajustarlo a los TextDraw's
+- Se dejara de lado el sistema de negocios un tiempo para trabajar y abordar temas mas importantes
+- Se mejoro algunas funciones del anticheat(ya probado) Skin, dinero, vida, chaleco.
+
+Tiempo de compilacion: 0.8980 segundos.
 
 # (MiamiSide 0.0.7) avances 29/11/2019
 - Ahora puedes comprar/vender tu negocio
