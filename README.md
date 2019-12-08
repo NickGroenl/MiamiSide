@@ -3,7 +3,7 @@
 - Se encontraron algunos errores grandes los cuales se estan trabajando
 - Nuevo sistema de nivel, con recompensas y textdraw
 - ahora el recibir o perder dinero te enviara una notificacion en textdraw
-- Ahora al usar /cambiarpj te saldra un textdraw clickeable para cmabiar tu personaje en solo segundos
+- Ahora al usar /cambiarpj te saldra un textdraw clickeable para cambiar tu personaje en solo segundos
 - Nuevo sistema de necesidades(no terminado)
 
 Tiempo de compilacion: 2.8049 segundos.
