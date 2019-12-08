@@ -1,4 +1,13 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.0.9) avances 08/12/2019
+- Se encontraron algunos errores grandes los cuales se estan trabajando
+- Nuevo sistema de nivel, con recompensas y textdraw
+- ahora el recibir o perder dinero te enviara una notificacion en textdraw
+- Ahora al usar /cambiarpj te saldra un textdraw clickeable para cmabiar tu personaje en solo segundos
+- Nuevo sistema de necesidades(no terminado)
+
+Tiempo de compilacion: 2.8049 segundos.
+
 
 # (MiamiSide 0.0.8) avances 02/12/2019
 -  Se comenzo a trabajar en el mapa de Miami 0.3DL(pronto imagenes)
