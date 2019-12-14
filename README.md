@@ -1,4 +1,15 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.1.0) avances 13/12/2019
+- se corrigio un error de virtualworld el cual te sacaba del servidor
+- se corrigieron errores en el logueo
+- nuevo sistema de inventario en textdraw con objetos clickeables y con la posibilidad de tirar/levantar
+- objetos agregados al sistema de inventario: maletin, municion y deagle
+- se esta trabajando en el sistema de prendas, con interaccion con el inventario y su propio textdraw
+- agregados comandos de rol
+- agregados algunos comandos de administrador
+
+Tiempo de compilacion: 3.0004 segundos.
+
 # (MiamiSide 0.0.9) avances 08/12/2019
 - Se encontraron algunos errores grandes los cuales se estan trabajando
 - Nuevo sistema de nivel, con recompensas y textdraw
