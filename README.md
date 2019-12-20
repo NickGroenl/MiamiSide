@@ -1,4 +1,15 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.1.1) avances 20/12/2019
+- Se agregaron 10 tipos de armas al inventario, maximo de armas en mano(1) :(9mm-comun, 9mm-silenciada, Desert-Eagle, Escopeta, Micro-Uzi, MP5, AK-47, M4, Rifle, Rifle-Francotirador)
+- Ahora al ingresar tendras un obsequio de miamiside
+- Se arreglaron todos los bugs que presentaba el servidor hasta el momento
+- Se re estructuro el anticheat para que sea %100 especifico a la hora de funcionar, de modo que la vida, chaleco, dinero y armas tardan menos de 0.5s en resetearlo en caso de que uses cheat
+- se arreglaron algunos textdraw's
+- mas comandos de administrador
+- Optimizacion del codigo y los timers ya que funcionaban mal
+
+Tiempo de compilacion: 2.9059 segundos-
+
 # (MiamiSide 0.1.0) avances 13/12/2019
 - se corrigio un error de virtualworld el cual te sacaba del servidor
 - se corrigieron errores en el logueo
