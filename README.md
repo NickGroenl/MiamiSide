@@ -1,4 +1,16 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.1.2) avances 21/12/2019
+- Ahora se puede abrir el inventario con la tecla N
+- Se corrigieron errores del inventario con el VIP
+- Nuevo tipo de negocio Agregado(Ammunation)
+- El negocio tipo ammunation ahora puede vender hasta 5 tipos de armas, modificandoles unicamente el precio-
+- Se agrego un sistema de baneo automatico
+- Ahora al tratar de usar un arma que no esta en tu inventario se te baneara automaticamente(100% precision)
+- Arreglos del anticheat
+
+Tiempo de compilacion: 3.2403 segundos.
+
+
 # (MiamiSide 0.1.1) avances 20/12/2019
 - Se agregaron 10 tipos de armas al inventario, maximo de armas en mano(1) :(9mm-comun, 9mm-silenciada, Desert-Eagle, Escopeta, Micro-Uzi, MP5, AK-47, M4, Rifle, Rifle-Francotirador)
 - Ahora al ingresar tendras un obsequio de miamiside
