@@ -1,4 +1,13 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.1.3) avances 26/12/2019
+- Arreglos de comandos generales
+- Arreglos en el logueo
+- Ahora al recoger un objeto te enviara una notificacion
+- Ahora los administradores pueden dar items
+- Cada comando de administrador se registrara en un log en la base de datos, si no tiene aprobacion iniciara una cuenta regresiva la cual llevara a un baneo
+
+Tiempo de compilacion: 3s
+
 # (MiamiSide 0.1.2) avances 21/12/2019
 - Ahora se puede abrir el inventario con la tecla N
 - Se corrigieron errores del inventario con el VIP
