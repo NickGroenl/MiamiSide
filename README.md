@@ -1,4 +1,19 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.1.4) avances 28/12/2019
+- Arreglo en el anticheat que te quitaba el dinero
+- Arreglos en el log de administrador
+- Se agrego un canal de dudas para todos los usuarios, si tu rango es ayudante o mayor no tendras que esperar 60s para hablar
+- Se agrego 4 objetos nuevos: radio comunicador (/fr, /r), hamburgueza, agua, manzana(se usa con click derecho) y sus respectivas funciones
+- Se empezo a trabajar en el sistema de empresas(remplazando el estilo de facciones)
+- comandos /invitar y /expulsar
+- Se empezo a trabajar en el sistema de muebles para las empresas
+- Se empezo a trabajar en el tipo de trabajo que dara cada empresa segun su tipo
+- Ahora las empresas tienen un limite de 25 miembros
+- Nuevo textdraw para el menu de muebles.
+
+Tiempo de compilacion: 3.1s
+
+
 # (MiamiSide 0.1.3) avances 26/12/2019
 - Arreglos de comandos generales
 - Arreglos en el logueo
