@@ -1,4 +1,14 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.1.5) avances 01/01/2020
+- Se arreglo un error del anticheat que si no tenias municion te quitaba el arma
+- Se dejo de lado por un tiempo el sistema de muebles(para trabajarlo mejor)
+- Se cambio totalmente los textdraws de necesidades y el logo
+- Se añadio un nuevo hud(ya funcionando)
+- Se actualizo el servidor a la version 0.3DL ya que ahora al spawnear apareceras en las nuevas partes de Miami
+
+Tiempo de compilacion: 3.1s
+
+
 # (MiamiSide 0.1.4) avances 28/12/2019
 - Arreglo en el anticheat que te quitaba el dinero
 - Arreglos en el log de administrador
