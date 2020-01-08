@@ -1,4 +1,15 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+
+# (MiamiSide 0.1.6) avances 08/01/2020
+- Se elimino algunas cosas del anticheat(funcionaban mal y se haran de nuevo)
+- Se termino lo basico del sistema de empresas
+- Se añadio la empresa tipo "Produccion de ropa" con su respectivo trabajo interactivo
+- Se añadieron algunas funciones del inventario
+- Se añadio un nuevo objeto al inventario "Celular" con su respectivo textdraw y funciones, estos celulares llevan bateria, tarjeta sim y otras cosas.
+
+Tiempo de compilacion: 3.4s
+
+
 # (MiamiSide 0.1.5) avances 01/01/2020
 - Se arreglo un error del anticheat que si no tenias municion te quitaba el arma
 - Se dejo de lado por un tiempo el sistema de muebles(para trabajarlo mejor)
