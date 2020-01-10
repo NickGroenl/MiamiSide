@@ -1,5 +1,17 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
 
+# (MiamiSide 0.1.7) avances 10/01/2020
+- Se añadieron iconos al textdraw de celular
+- Se añadieron iconos a las barras del hud
+- Se agregaron funciones de celular, llamar, enviar mensajes, ver contactos, todo clickeable e interactivo
+- Se empezo a trabajar en el sistema de vehiculos
+- Ahora los vehiculos almacenan, vida del auto, bateria, gasolina, agua, aceite y otros factores
+- Se adapto un textdraw de velocimetro, con funciones clickeables
+- Se añadio un nuevo sistema de Marchas manual (N, 1, 2, 3, 4, 5, R)
+"Tecla Y para subir, N para bajar de marcha, 2 para el embrague, es importante usar el embrague para cambiar de marchas, si forzas al motor al llegar a su limite de velocidad por marcha este se ira dañando"
+
+Tiempo de compilacion: 3.0s
+
 # (MiamiSide 0.1.6) avances 08/01/2020
 - Se elimino algunas cosas del anticheat(funcionaban mal y se haran de nuevo)
 - Se termino lo basico del sistema de empresas
