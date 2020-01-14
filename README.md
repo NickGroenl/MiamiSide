@@ -1,4 +1,15 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.1.8) avance 14/01/2020
+- Pequeños errores de el sistema de marchas arreglado
+- Ahora al manetener apretado 2 el embrague no se soltara, 2s despues de solar el 2 el embrage se soltara
+- Se añadieron los accesorios para los vehiculos(Aun agregando modelos)
+- Nuevo textdraw para los accesorios para los vehiculos
+- Comandos agregados /vmenu(dentro del auto para encender/apagar motor y mas) y /vtoys para ver el menu de accesorios de tu vehiculo, todo esto con la llave del vehiculo en mano.
+- Se agrego una funcion para en un futuro poder duplicar las llaves
+- Se empezo a trabajar en el baul del vehiculo
+
+Tiempo de compilacion: 3.5s
+
 
 # (MiamiSide 0.1.7) avances 10/01/2020
 - Se añadieron iconos al textdraw de celular
