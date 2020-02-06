@@ -1,4 +1,13 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+
+# (MiamiSide 0.1.9) avance 06/02/2020
+- Se optimizaron la mayoria de textdraw's
+- ahora estaremos usando diseños mas atractivos en los textdraw's(se estaran remodelando todos)
+- se creo un .inc dialogs, agregando nuestros propios dialogos, totalmente funcionales y dinamicos
+- Ya se modelaron los primeros skin's totalmente desnudos para probar el sistema de ropa.
+
+Tiempo de compilacion 3.1s
+
 # (MiamiSide 0.1.8) avance 14/01/2020
 - Pequeños errores de el sistema de marchas arreglado
 - Ahora al manetener apretado 2 el embrague no se soltara, 2s despues de solar el 2 el embrage se soltara
