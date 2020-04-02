@@ -1,5 +1,14 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
 
+
+# (MiamiSide 0.2.0) avance 02/04/2020
+- Se empezo a trabajar en la cimenatica del inicio y misiones de Pablo Escobar y Ronald Reagan
+- Se modifico el hud
+- Se modifico el inventario
+- Se cambio todo el logueo/registro
+- Trabajando en nuestras propias progressbar
+- Nuevos skins agregados
+
 # (MiamiSide 0.1.9) avance 06/02/2020
 - Se optimizaron la mayoria de textdraw's
 - ahora estaremos usando diseños mas atractivos en los textdraw's(se estaran remodelando todos)
