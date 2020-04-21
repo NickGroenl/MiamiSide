@@ -1,5 +1,15 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
 
+# ( MiamiSide 0.2.1) 
+- Se termino el guardado y cargado de vehiculos
+- Sistema de pago diario
+- Impuesto y otros detalles faccion Gobierno
+- Include para barras semi terminado
+- Trabajando en un instalador para todos los archivos que usara miamiside
+- Notificaciones nuevas(ThePez)
+- Ahora con coins puedes /comprarcajas
+- Comando /ayuda por paginacion.
+
 
 # (MiamiSide 0.2.0) avance 02/04/2020
 - Se empezo a trabajar en la cimenatica del inicio y misiones de Pablo Escobar y Ronald Reagan
