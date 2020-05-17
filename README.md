@@ -1,4 +1,21 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (MiamiSide 0.2.2)
+- Solucionado y terminado el sistema de MiamiPhone
+- Solucionado problemas del baul y accesorios del vehiculo
+- Sistema de empresa base casi terminado
+- Se empezo a trabajar en el sistema de negocios y su sistema de compra NPC
+- Nuevas tipos de notificaciones en el medio abajo estilo Gta V
+- Solucionado error del Hud
+- Primer tipo de negocio terminado "24/7"
+- Ahora al estar en una entrada te saldra la notificacion "Pulsa Y para entrar" "Pulsa Y para salir"
+- Problema de caracteres en el mysql que ocasionaba un error solucionado
+- Ahora el include de los dialogos es per player y no global
+- Nuevas skins agregadas
+- Ahora las empresas pueden poner/editar/comprar muebles(Conectado con sistema de negocios la compra)
+- Puedes gestionar a tus miembros online que trabajan en tu empresa y todo con el comando /miempresa
+- Puertas para las empresas editables por el dueño, automaticas con la tecla Y
+
+
 
 # ( MiamiSide 0.2.1) 
 - Se termino el guardado y cargado de vehiculos
