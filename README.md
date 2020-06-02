@@ -1,4 +1,17 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (Miamiside 0.2.3)
+- Solucionado error del sistema de vehiculos
+- Ahora al cambiar de marcha no te tirara para atras al vehiculo
+- Solucionado error que los vehiculos en la marcha numero 2 se prendien fuego
+- Se agrego el radar en la esquina derecha arriba
+- Ahora el celular baja correctamente la bateria
+- Base de empresas y negocios ya terminado
+- Renta de vehiculos automaticos por toda la ciudad
+- Primera mision agregada para Pablo Escobar
+- Soluciones visuales en el mapa de Vice City
+- Ahora al tirar un objeto del inventario lo hara correctamente
+- Errores de mysql Fixeados
+
 # (MiamiSide 0.2.2)
 - Solucionado y terminado el sistema de MiamiPhone
 - Solucionado problemas del baul y accesorios del vehiculo
