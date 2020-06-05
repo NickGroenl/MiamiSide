@@ -1,4 +1,14 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+
+# (Miamiside 0.2.4)
+- Solucionado error del hud
+- Solucionado error del login y menu de personajes
+- Solucionados errores del anticheat
+- Ahora al quedarte sin balas en tu arma no hara que esta desaparezca, si no que la colocara junto a tu mano como un objeto
+- Se agrego la primer empresa de tipo "Taxi" con su trabajo como tal
+- Ahora las empresas tendran un skin de trabajo, al ponerte en servicio se te pondra esta skin y al salirte de servicio volveras a tu skin original
+
+
 # (Miamiside 0.2.3)
 - Solucionado error del sistema de vehiculos
 - Ahora al cambiar de marcha no te tirara para atras al vehiculo
