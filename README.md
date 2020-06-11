@@ -1,4 +1,14 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (Miamiside 0.2.5)
+- solucionados error empresa taxi
+- se modifico visualmente el hud
+- ahora los dueños de una empresa pueden agregar vehiculos a su empresa(de modo que los miembros pueden usarlos)
+- ahora las empresas pueden elegir el id del skin que quieren que usen sus empleados
+- ahora esta el comando /servicio
+- abrir y cerrar vehiculo con tecla Y
+- ahora puedes modificar la posicion en la que se usara el comando /servicio
+- ahora el motor no se apagara cuando este en la marcha numero 1
+- solucionados otros errores
 
 # (Miamiside 0.2.4)
 - Solucionado error del hud
