@@ -1,4 +1,11 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (Miamiside 0.2.6)
+- Se modifico la tecla para abrir/cerrar vehiculo (y + space)
+- Se termino la empresa de tipo: Ensamblaje de vehiculos
+- Se modifico el sistema de hash de contraseñas(hash = seguridad) al metodo bcrypt
+- Errores del sistema de vehiculos solucionados
+- ahora en la marcha 5 no se quedara atorado
+
 # (Miamiside 0.2.5)
 - solucionados error empresa taxi
 - se modifico visualmente el velocimetro
