@@ -1,4 +1,17 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+
+# (Miamiside 0.2.7)
+- Se agrego la empresa de tipo Policia
+- Los casilleros de policia, gobierno o bomberos tienen la opcion de tomar un cinturon tactico
+- ahora los cinturones (/ct) tacticos traen; en el slot uno y dos la capacidad de distintos armamentos, slot 1(9mm y desert-eagle), slot 2(escopeta, m4, francotirador)
+- se termino el comando /pmenu, en el cual te sale un dialogo si estas cerca de un jugador para las siguientes opciones, arrestar, subir a una patrulla, revisar o confiscar un objeto
+- se empezo a trabajar en otro comando la construccion de retenes de manera dinamica y sencilla para los cuerpos gubernamentales
+- error cuenta master con variable de nombre seteada en 88
+- ahora los comandos /do, /me, /g, /s, /b y incluso al hablar, si superas los limites de caracteres entonces se aplica el metodo doble linea
+- ahora el inventario al seleccionar un item, este se marcara en color violeta
+- corregidos errores del anticheat
+
+
 # (Miamiside 0.2.6)
 - Se modifico la tecla para abrir/cerrar vehiculo (y + space)
 - Se termino la empresa de tipo: Ensamblaje de vehiculos
