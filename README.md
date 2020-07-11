@@ -5,6 +5,7 @@
 - se añadio el ciclo año, miamiside empezara en el 1979 y ira subiendo a medida que pase el tiempo
 - ahora cada pago diario suma +1 dia a lo que seria el mes(30 meses = 1+ mes, 12 meses = +1 año)
 - se empezo a trabajar en la empresa de tipo Gobierno
+- se corrigio un error en las cajas Coins de Miamiside
 
 # (Miamiside 0.2.7)
 - Se agrego la empresa de tipo Policia
