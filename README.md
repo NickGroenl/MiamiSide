@@ -1,4 +1,10 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+# (Miamiside 0.2.8)
+- se termino el comando para el cuerpo gubernamental en el cual consiste, en el casillero de su departamento puede equipar items como conos, pinchos o barreras en su inventario para cargarlo en el movil o una camioneta
+- el clima cambiaria segun la hora de rol en el servidor (el tiempo no corre de la misma forma que fuera de tu PC)
+- se añadio el ciclo año, miamiside empezara en el 1979 y ira subiendo a medida que pase el tiempo
+- ahora cada pago diario suma +1 dia a lo que seria el mes(30 meses = 1+ mes, 12 meses = +1 año)
+- se empezo a trabajar en la empresa de tipo Gobierno
 
 # (Miamiside 0.2.7)
 - Se agrego la empresa de tipo Policia
