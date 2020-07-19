@@ -1,4 +1,16 @@
 # MiamiSide Actualizaciones (Xylospeed developer)
+
+
+# (Miamiside 0.2.9)
+- Se elimino y rehizo la base del sistema de casas
+- ahora las casas tipo Departamento pueden interactuar con su puerta con la tecla Y(para abrirla o cerrarla, visualmente tambien se movera la puerta)
+- Se añadio un nuevo de tipos de dialogos para listas o trabajos con gran numero de slots, como mochilas
+- Se elimino el anticheat y se hizo de nuevo
+- se empezo a trabajar en el sistema de daño
+- ahora el item "celular" es algo personal, solo podras tener uno de ellos y no tirarlo
+- se re hizo el sistema de muebles
+
+
 # (Miamiside 0.2.8)
 - se termino el comando para el cuerpo gubernamental en el cual consiste, en el casillero de su departamento puede equipar items como conos, pinchos o barreras en su inventario para cargarlo en el movil o una camioneta
 - el clima cambiaria segun la hora de rol en el servidor (el tiempo no corre de la misma forma que fuera de tu PC)
