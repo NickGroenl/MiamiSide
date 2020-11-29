@@ -1,4 +1,4 @@
-# MiamiSide Actualizaciones (Xylospeed developer)
+# MiamiSide Actualizaciones (xylospeed developer)
 
 
 # (Miamiside 0.2.9)
